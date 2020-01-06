@@ -7,7 +7,8 @@
 // For this module N must be a power of two.
 //
 // Sorts N input signals of DATAWIDTH bits wide
-// using only combinatorial logic.
+// using only combinatorial logic
+// reference Fen Logic Ltd
 //********************************************************************//
 
 module sort_N#( 
